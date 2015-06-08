@@ -69,9 +69,10 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   Wonder how many coffee brands in saigon, [check this](https://boccommunityblog.wordpress.com/2014/11/29/viet-nam-co-bao-nhieu-quan-ca-phe-tong-hop/)
   
   **Tip**: 
-    1. you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
-    - you can copy the address and paste them to google maps or show to the taxi drivers.
-    - *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
+  
+1. you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
+  - you can copy the address and paste them to google maps or show to the taxi drivers.
+  - *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
 
     
 # Resource
