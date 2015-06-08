@@ -120,6 +120,14 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   - [Sai gon Square] (http://www.tripadvisor.com.sg/Attraction_Review-g293925-d2475475-Reviews-Saigon_Square-Ho_Chi_Minh_City.html)
   - [Aeon mall](http://www.tripadvisor.com.sg/Attraction_Review-g293925-d6403614-Reviews-Aeon_Mall_Tan_Phu_Celadon_Shopping_Center-Ho_Chi_Minh_City.html) - a little bit far.
   - Many supermarkets: Coopmart, Maximark, B'smart around the city, also many small shops around street.
+# TOURS
+  - https://www.triip.me/ho-chi-minh/saigon-by-night-29/ Saigon by night
+  - https://www.triip.me/ho-chi-minh/pick-up-and-city-map-airport-district-1-4359/ When you arrival to Sai Gon and don't know what to do :thumbup:
+  - https://www.triip.me/ho-chi-minh/vietnamese-street-foods-why-not-426/
+  - https://www.triip.me/ho-chi-minh/start-up-tour-an-adventure-into-start-up-world-of-vietnam-831/
+  - https://www.triip.me/ho-chi-minh/saigon-food-tour-1892/
+  - https://www.triip.me/ho-chi-minh/phu-my-hung-urban-area-tour-v1-2474/
+  - http://www.foody.vn/ho-chi-minh/tau-sai-gon Buffet in the ship around Saigon River.
 
 # NOTES
   - You may become a victim of pickpocket, so don't
