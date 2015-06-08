@@ -35,6 +35,8 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   
   Language: Vietnamese. In Dist1 and Airport, people use English a lot, so don't worry.
 
+# Hotel: go to booking online (e.g http://www.agoda.com/)
+
 # Coffee
   Sai gon has a ton of coffee shop, :smiley: Here are some:
   
