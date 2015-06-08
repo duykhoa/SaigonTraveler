@@ -100,7 +100,28 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
     + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1646963-Reviews-The_Snap_Cafe-Ho_Chi_Minh_City.html
     + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d3682545-Reviews-Hum_Vegetarian_Cafe_Restaurant-Ho_Chi_Minh_City.html
   
-# Bar    
+# Bar & Beer
+  - Must visit [Bùi Viện Road](http://www.tripadvisor.com.sg/Attraction_Review-g293925-d5505885-Reviews-Bui_Vien_Street-Ho_Chi_Minh_City.html), there are a lot of bars.
+  - Bitexco, a lot of bars.
+    ![bitexco](http://www.e-architect.co.uk/images/jpgs/vietnam/hcm_financial_tower_a290411_16.jpg)
+  - [Acoustic Bar](http://www.tripadvisor.com.sg/LocationPhotoDirectLink-g293925-d5894992-i97110625-Acoustic-Ho_Chi_Minh_City.html), must try.
+  - [More here](http://www.foody.vn/ho-chi-minh/bar-pub?q=bar)
+
+# Shoping
+  - Ben Thanh Market (Chợ Bến Thành)
+  - Vincom Center - 72 Lê Thánh Tôn and 45A Lý Tự Trọng, phường Bến Nghé, quận 1, Tp. Hồ Chí Minh
+  - Cresent mall [District 7](https://www.google.com/maps/d/viewer?mid=zyigrvuPD27Q.kQbBi42BFM1E&hl=en_US)
+  - [Sai gon Square] (http://www.tripadvisor.com.sg/Attraction_Review-g293925-d2475475-Reviews-Saigon_Square-Ho_Chi_Minh_City.html)
+  - [Aeon mall](http://www.tripadvisor.com.sg/Attraction_Review-g293925-d6403614-Reviews-Aeon_Mall_Tan_Phu_Celadon_Shopping_Center-Ho_Chi_Minh_City.html) - a little bit far.
+  - Many supermarkets: Coopmart, Maximark, B'smart around the city, also many small shops around street.
+
+# NOTES
+  - You may be a victim of pickpocket, so don't
+    + Wear your bag like that
+      ![This](http://l.f30.img.vnexpress.net/2013/03/17/ho-1363536711_500x0.jpg)
+    + Watchout for valueable assets (phone, ipad, wallet) when going in the crowd
+      ![this](http://img.v3.news.zdn.vn/Uploaded/fsmqv/2015_01_15/moc.jpg)
+    + Don't pick your phone or walk alone in the street, especially at night.
 
 # Resource
   - https://www.triip.me/
