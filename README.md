@@ -20,6 +20,7 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
 
 # Currency
   Should exchange cash, we use VND (Việt Nam Đồng), 1USD ~ 22,000 VND [rate](https://www.google.com.sg/search?q=1+USD+in+VND&oq=1+USD+in+VND&aqs=chrome..69i57j69i60l5.3959j0j1&sourceid=chrome&es_sm=91&ie=UTF-8)
+  
   You can use master card in some coffeeshop, restautant or Taxi, but better to have some cash.
 
 # Power
@@ -31,6 +32,7 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
 
 # Communication
   Phone number: should by a Sim, register 3G (no ID needed)
+  
   Language: Vietnamese. In Dist1 and Airport, people use English a lot, so don't worry.
 
 # Coffee
@@ -116,10 +118,12 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   - Many supermarkets: Coopmart, Maximark, B'smart around the city, also many small shops around street.
 
 # NOTES
-  - You may be a victim of pickpocket, so don't
+  - You may become a victim of pickpocket, so don't
     + Wear your bag like that
+      
       ![This](http://l.f30.img.vnexpress.net/2013/03/17/ho-1363536711_500x0.jpg)
     + Watchout for valueable assets (phone, ipad, wallet) when going in the crowd
+      
       ![this](http://img.v3.news.zdn.vn/Uploaded/fsmqv/2015_01_15/moc.jpg)
     + Don't pick your phone or walk alone in the street, especially at night.
 
