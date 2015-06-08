@@ -60,9 +60,12 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   - Others
 
   [Highland coffee](http://www.foody.vn/thuong-hieu/highlands-coffee)
+  
   [Trung Nguyen coffee](http://www.foody.vn/thuong-hieu/trung-nguyen-coffee)
+  
   [Thuc coffee](http://www.foody.vn/thuong-hieu/thuc-coffee)
   
+  (MUST TRY) [L'Ussine](http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2286221-Reviews-L_Usine-Ho_Chi_Minh_City.html)
   There are some coffee shops for enjoy coffee and working, but you want to sit down, relax, check out here:
   http://www.foody.vn/ho-chi-minh/cafe
   
@@ -74,7 +77,20 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   + you can copy the address and paste them to google maps or show to the taxi drivers.
   + *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
 
-    
+#Eating
+  - Phở, know 1 ([Phở Thìn 170 Nguyễn Đình Chiểu, P. 6, Quận 3, TP. HCM](http://www.foody.vn/ho-chi-minh/pho-thin))
+  - Bánh Tráng Hoàng Ty
+  - Snail: I just know one, name Ốc Đào ([212B Nguyễn Trãi, Quận 1, TP. HCM] (http://www.foody.vn/ho-chi-minh/oc-dao-nguyen-trai)), but there are a lot
+  - Bún chả Hà Nội.
+  - Cơm tấm
+  
+  Some where must try:
+  - Cục Gạch: 79 Phan Kế Bính, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/cuc-gach-cafe
+    [Check out the review here](http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html)
+  - An Nam: http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d4085424-Reviews-An_Nam_Quan-Ho_Chi_Minh_City.html
+  - The deck http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1928671-Reviews-The_Deck_Saigon-Ho_Chi_Minh_City.html
+  - Sumo BBQ http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2403757-Reviews-Sumo_BBQ-Ho_Chi_Minh_City.html
+  -   
 # Resource
   - https://www.triip.me/
   - http://wikitravel.org/en/Ho_Chi_Minh_City
