@@ -61,8 +61,10 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
     + 90 Cách Mạng Tháng 8, Quận 3, TP. HCM http://www.foody.vn/ho-chi-minh/urban-station-coffee-takeaway-90-cach-mang-thang-8
     +  177 Hàm Nghi, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/urban-station-coffee-takeaway-177-ham-nghi
     +  23 Tôn Thất Tùng, P. Phạm Ngũ Lão, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/urban-station-coffee-takeaway-ton-that-tung
-    
     + [More here](http://www.foody.vn/thuong-hieu/urban-station-coffee)
+  - Phúc Long (must try): Phúc Long milk tea is awesome, and the people there are so energize :smiley:
+    + Crescent Mall, District 7 http://www.foody.vn/ho-chi-minh/phuc-long-cafe-takeaway-crescent-mall
+    + 325 Lý Tự Trọng, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/phuc-long-coffee-tea-house-ly-tu-trong
   - Others
 
   [Highland coffee](http://www.foody.vn/thuong-hieu/highlands-coffee)
