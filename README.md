@@ -36,9 +36,9 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
 #Coffee
   Sai gon has a ton of coffee shop, :smiley:. Here are some:
     - Star Buck: there are a lot of starbuck coffee
-      * 41 Nguyễn Huệ, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-coffee-rex-hotel
-      * President Place, 93 Nguyễn Du, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-coffee-nguyen-du
-      * Phạm Hồng Thái & Nguyễn Thị Nghĩa, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-pham-hong-thai
+      - 41 Nguyễn Huệ, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-coffee-rex-hotel
+      -  President Place, 93 Nguyễn Du, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-coffee-nguyen-du
+      - Phạm Hồng Thái & Nguyễn Thị Nghĩa, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-pham-hong-thai
 
       **Tip**: you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
       
