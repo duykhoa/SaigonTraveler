@@ -63,7 +63,10 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   [Trung Nguyen coffee](http://www.foody.vn/thuong-hieu/trung-nguyen-coffee)
   [Thuc coffee](http://www.foody.vn/thuong-hieu/thuc-coffee)
   
-  There are some coffee shops for enjoy coffee and working, but you want to sit down, relax, there are some:
+  There are some coffee shops for enjoy coffee and working, but you want to sit down, relax, check out here:
+  http://www.foody.vn/ho-chi-minh/cafe
+  
+  Wonder how many coffee brands in saigon, [check this](https://boccommunityblog.wordpress.com/2014/11/29/viet-nam-co-bao-nhieu-quan-ca-phe-tong-hop/)
   
   **Tip**: 
     1. you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
