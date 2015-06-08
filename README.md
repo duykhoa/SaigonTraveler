@@ -70,9 +70,9 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   
   **Tip**: 
   
-1. you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
-  - you can copy the address and paste them to google maps or show to the taxi drivers.
-  - *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
+  + you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
+  + you can copy the address and paste them to google maps or show to the taxi drivers.
+  + *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
 
     
 # Resource
