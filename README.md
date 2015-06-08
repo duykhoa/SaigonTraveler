@@ -37,8 +37,10 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
 
 # Coffee
   Sai gon has a ton of coffee shop, :smiley: Here are some:
-    
-  1. Star Buck
+  
+  1. The Work Shop (must try)
+    Ngô Đức Kế, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-workshop-coffee-shop
+  - Star Buck
     + 41 Nguyễn Huệ, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-coffee-rex-hotel
     + President Place, 93 Nguyễn Du, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-coffee-nguyen-du
     + Phạm Hồng Thái & Nguyễn Thị Nghĩa, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-pham-hong-thai
@@ -76,9 +78,9 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   
   **Tip**: 
   
-    + you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
-    + you can copy the address and paste them to google maps or show to the taxi drivers.
-    + *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
+  + you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
+  + you can copy the address and paste them to google maps or show to the taxi drivers.
+  + *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
 
 #Eating
   - Phở, know 1 ([Phở Thìn 170 Nguyễn Đình Chiểu, P. 6, Quận 3, TP. HCM](http://www.foody.vn/ho-chi-minh/pho-thin))
@@ -105,8 +107,10 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
 # Bar & Beer
   - Must visit [Bùi Viện Road](http://www.tripadvisor.com.sg/Attraction_Review-g293925-d5505885-Reviews-Bui_Vien_Street-Ho_Chi_Minh_City.html), there are a lot of bars.
   - Bitexco, a lot of bars.
+    
     ![bitexco](http://www.e-architect.co.uk/images/jpgs/vietnam/hcm_financial_tower_a290411_16.jpg)
-  - [Acoustic Bar](http://www.tripadvisor.com.sg/LocationPhotoDirectLink-g293925-d5894992-i97110625-Acoustic-Ho_Chi_Minh_City.html), must try.
+  
+- [Acoustic Bar](http://www.tripadvisor.com.sg/LocationPhotoDirectLink-g293925-d5894992-i97110625-Acoustic-Ho_Chi_Minh_City.html), must try.
   - [More here](http://www.foody.vn/ho-chi-minh/bar-pub?q=bar)
 
 # Shoping
