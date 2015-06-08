@@ -56,7 +56,7 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
     +  177 Hàm Nghi, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/urban-station-coffee-takeaway-177-ham-nghi
     +  23 Tôn Thất Tùng, P. Phạm Ngũ Lão, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/urban-station-coffee-takeaway-ton-that-tung
     
-    [More here](http://www.foody.vn/thuong-hieu/urban-station-coffee)
+    + [More here](http://www.foody.vn/thuong-hieu/urban-station-coffee)
   - Others
 
   [Highland coffee](http://www.foody.vn/thuong-hieu/highlands-coffee)
@@ -65,8 +65,12 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   
   There are some coffee shops for enjoy coffee and working, but you want to sit down, relax, there are some:
   
-  Tip: you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
-      
+  **Tip**: 
+    1. you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
+    - you can copy the address and paste them to google maps or show to the taxi drivers.
+    - *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
+
+    
 # Resource
   - https://www.triip.me/
   - http://wikitravel.org/en/Ho_Chi_Minh_City
