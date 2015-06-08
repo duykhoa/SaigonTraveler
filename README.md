@@ -32,7 +32,16 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
 #Communication
   Phone number: should by a Sim, register 3G (no ID needed)
   Language: Vietnamese. In Dist1 and Airport, people use English a lot, so don't worry.
-  
+
+#Coffee
+  Sai gon has a ton of coffee shop, :smiley:. Here are some:
+    - Star Buck: there are a lot of starbuck coffee
+      * 41 Nguyễn Huệ, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-coffee-rex-hotel
+      * President Place, 93 Nguyễn Du, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-coffee-nguyen-du
+      * Phạm Hồng Thái & Nguyễn Thị Nghĩa, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-pham-hong-thai
+
+      **Tip**: you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
+      
 # Resource
   - https://www.triip.me/
   - http://wikitravel.org/en/Ho_Chi_Minh_City
