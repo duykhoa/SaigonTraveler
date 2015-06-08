@@ -51,10 +51,19 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
     + 97 Đinh Tiên Hoàng, P. 12, Quận Bình Thạnh, TP. HCM  http://www.foody.vn/ho-chi-minh/passio-coffee-dinh-tien-hoang
   - The coffee house
     http://www.foody.vn/thuong-hieu/the-coffee-house
-  - Trung Nguyen coffee, Highland coffee
+  - Urban station
+    + 90 Cách Mạng Tháng 8, Quận 3, TP. HCM http://www.foody.vn/ho-chi-minh/urban-station-coffee-takeaway-90-cach-mang-thang-8
+    +  177 Hàm Nghi, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/urban-station-coffee-takeaway-177-ham-nghi
+    +  23 Tôn Thất Tùng, P. Phạm Ngũ Lão, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/urban-station-coffee-takeaway-ton-that-tung
+    
+    [More here](http://www.foody.vn/thuong-hieu/urban-station-coffee)
+  - Others
+
+  [Highland coffee](http://www.foody.vn/thuong-hieu/highlands-coffee)
+  [Trung Nguyen coffee](http://www.foody.vn/thuong-hieu/trung-nguyen-coffee)
+  [Thuc coffee](http://www.foody.vn/thuong-hieu/thuc-coffee)
   
   There are some coffee shops for enjoy coffee and working, but you want to sit down, relax, there are some:
-  - TODO
   
   Tip: you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
       
