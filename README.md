@@ -41,7 +41,21 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
     + President Place, 93 Nguyễn Du, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-coffee-nguyen-du
     + Phạm Hồng Thái & Nguyễn Thị Nghĩa, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-pham-hong-thai
     + [More here](http://www.foody.vn/thuong-hieu/starbucks-coffee)
-  2. Coffee Bean
+  - Coffee Bean
+    + 1 - 5 Lê Duẩn, P. Bến Nghé, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-coffee-bean-tea-leaf-le-duan 
+    + 60 - 62 Cách Mạng Tháng 8, Quận 3, TP. HCM http://www.foody.vn/ho-chi-minh/the-coffee-bean-tea-leaf-cach-mang-thang-8
+    + 27 Hàn Thuyên, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-coffee-bean-tea-leaf-han-thuyen
+  - Passio
+    Review [here](http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d3989713-Reviews-Passio_Coffee-Ho_Chi_Minh_City.html)
+    + 53C Nguyễn Du, P. Bến Nghé, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/passio-coffee-nguyen-du
+    + 97 Đinh Tiên Hoàng, P. 12, Quận Bình Thạnh, TP. HCM  http://www.foody.vn/ho-chi-minh/passio-coffee-dinh-tien-hoang
+  - The coffee house
+    http://www.foody.vn/thuong-hieu/the-coffee-house
+  - Trung Nguyen coffee, Highland coffee
+  
+  There are some coffee shops for enjoy coffee and working, but you want to sit down, relax, there are some:
+  - TODO
+  
   Tip: you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
       
 # Resource
