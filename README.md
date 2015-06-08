@@ -18,22 +18,22 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   - Cyclo: if you want to travel around Ben Thanh Market, try it
     ![1](http://www.allvietnam.com/wp-content/uploads/2015/04/xich-lo.jpg)
 
-#Currency
+# Currency
   Should exchange cash, we use VND (Việt Nam Đồng), 1USD ~ 22,000 VND [rate](https://www.google.com.sg/search?q=1+USD+in+VND&oq=1+USD+in+VND&aqs=chrome..69i57j69i60l5.3959j0j1&sourceid=chrome&es_sm=91&ie=UTF-8)
   You can use master card in some coffeeshop, restautant or Taxi, but better to have some cash.
 
-#Power
+# Power
   We use this one
   
   ![o cam dien](http://chemeng.hust.edu.vn/rcche2015/images/demo/o-cam-dien.jpg)
   
   :trollface:
 
-#Communication
+# Communication
   Phone number: should by a Sim, register 3G (no ID needed)
   Language: Vietnamese. In Dist1 and Airport, people use English a lot, so don't worry.
 
-#Coffee
+# Coffee
   Sai gon has a ton of coffee shop, :smiley: Here are some:
     
   1. Star Buck
@@ -66,6 +66,7 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   [Thuc coffee](http://www.foody.vn/thuong-hieu/thuc-coffee)
   
   (MUST TRY) [L'Ussine](http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2286221-Reviews-L_Usine-Ho_Chi_Minh_City.html)
+  
   There are some coffee shops for enjoy coffee and working, but you want to sit down, relax, check out here:
   http://www.foody.vn/ho-chi-minh/cafe
   
@@ -73,9 +74,9 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   
   **Tip**: 
   
-  + you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
-  + you can copy the address and paste them to google maps or show to the taxi drivers.
-  + *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
+    + you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
+    + you can copy the address and paste them to google maps or show to the taxi drivers.
+    + *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
 
 #Eating
   - Phở, know 1 ([Phở Thìn 170 Nguyễn Đình Chiểu, P. 6, Quận 3, TP. HCM](http://www.foody.vn/ho-chi-minh/pho-thin))
@@ -90,7 +91,17 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   - An Nam: http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d4085424-Reviews-An_Nam_Quan-Ho_Chi_Minh_City.html
   - The deck http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1928671-Reviews-The_Deck_Saigon-Ho_Chi_Minh_City.html
   - Sumo BBQ http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2403757-Reviews-Sumo_BBQ-Ho_Chi_Minh_City.html
-  -   
+  - MORE here
+    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1008341-Reviews-The_Refinery-Ho_Chi_Minh_City.html
+    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2168691-Reviews-Mekong_Merchant-Ho_Chi_Minh_City.html
+    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2168691-Reviews-Mekong_Merchant-Ho_Chi_Minh_City.html
+    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d4022532-Reviews-Agnes_Cafe-Ho_Chi_Minh_City.html
+    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1055035-Reviews-The_Sushi_Bar-Ho_Chi_Minh_City.html
+    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1646963-Reviews-The_Snap_Cafe-Ho_Chi_Minh_City.html
+    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d3682545-Reviews-Hum_Vegetarian_Cafe_Restaurant-Ho_Chi_Minh_City.html
+  
+# Bar    
+
 # Resource
   - https://www.triip.me/
   - http://wikitravel.org/en/Ho_Chi_Minh_City
