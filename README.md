@@ -38,6 +38,10 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
 # Hotel
   Go to booking website (e.g http://www.agoda.com/)
 
+# Medicine & Face mask
+  You can buy medicine & facemask easily in the medical care, these stores are in the hospital or around the street.
+  Should wear facemask outside.
+
 # Coffee
   Sai gon has a ton of coffee shop, :smiley: Here are some:
   
