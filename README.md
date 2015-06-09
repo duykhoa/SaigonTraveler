@@ -3,14 +3,19 @@
 Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com/rubysg/singapore), Saigon version 
 
 # Table of content
-  - Travel
-  - Currency
-  - Power
-  - Coffee
-  - Eating
-  - Bar
-  - Sight seeing
-  - Communication
+  - [Travel](#travel)
+  - [Currency](#currency)
+  - [Power](#power)
+  - [Communication](#communication)
+  - [Hotel](#hotel)
+  - [Medicine & Facemask](#medicine--face-mask)
+  - [Coffee](#coffee)
+  - [Eat](#eat)
+  - [Bar](#bar--beer)
+  - [Shopping](#shopping)
+  - [Tours](#tours)
+  - [Notes](#notes)
+  - [Resource](#resources)
 
 # Travel
   - Taxi: Grab taxi, Mai Linh (08) 38 38 38 38, Vina Sun (08) 38 27 27 27
@@ -122,7 +127,7 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
 - [Acoustic Bar](http://www.tripadvisor.com.sg/LocationPhotoDirectLink-g293925-d5894992-i97110625-Acoustic-Ho_Chi_Minh_City.html), must try.
   - [More here](http://www.foody.vn/ho-chi-minh/bar-pub?q=bar)
 
-# Shoping
+# Shopping
   - Ben Thanh Market (Chợ Bến Thành)
   - Vincom Center - 72 Lê Thánh Tôn and 45A Lý Tự Trọng, phường Bến Nghé, quận 1, Tp. Hồ Chí Minh
   - Cresent mall [District 7](https://www.google.com/maps/d/viewer?mid=zyigrvuPD27Q.kQbBi42BFM1E&hl=en_US)
@@ -130,7 +135,7 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   - [Aeon mall](http://www.tripadvisor.com.sg/Attraction_Review-g293925-d6403614-Reviews-Aeon_Mall_Tan_Phu_Celadon_Shopping_Center-Ho_Chi_Minh_City.html) - a little bit far.
   - Many supermarkets: Coopmart, Maximark, B'smart around the city, also many small shops around street.
 
-# TOURS
+# Tour
   - https://www.triip.me/ho-chi-minh/saigon-by-night-29/ Saigon by night
   - https://www.triip.me/ho-chi-minh/pick-up-and-city-map-airport-district-1-4359/ When you arrival to Sai Gon and don't know what to do :thumbup:
   - https://www.triip.me/ho-chi-minh/vietnamese-street-foods-why-not-426/
@@ -139,7 +144,13 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   - https://www.triip.me/ho-chi-minh/phu-my-hung-urban-area-tour-v1-2474/
   - http://www.foody.vn/ho-chi-minh/tau-sai-gon Buffet in the ship around Saigon River.
 
-# NOTES
+#Other
+  Workspace: not sure, before I used to come to saigonhub, but it closed for a long time. May check out
+  - http://www.worksaigon.com/#about
+  - http://start-saigon.com/
+  - http://saigoncoworking.com/
+
+# Notes
   - You may become a victim of pickpocket, so don't
     + Wear your bag like that
       
@@ -149,7 +160,7 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
       ![this](http://img.v3.news.zdn.vn/Uploaded/fsmqv/2015_01_15/moc.jpg)
     + Don't pick your phone or walk alone in the street, especially at night.
 
-# Resource
+# Resources
   - https://www.triip.me/
   - http://wikitravel.org/en/Ho_Chi_Minh_City
   - https://github.com/rubysg/singapore
