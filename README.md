@@ -36,7 +36,7 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   :trollface:
 
 # Communication
-  Phone number: should by a Sim, register 3G (no ID needed)
+  Phone number: should buy a Sim, register 3G (no ID needed)
   
   Language: Vietnamese. In Dist1 and Airport, people use English a lot, so don't worry.
 
