@@ -24,7 +24,7 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
     ![1](http://www.allvietnam.com/wp-content/uploads/2015/04/xich-lo.jpg)
 
 # Currency
-  Should exchange cash, we use VND (Việt Nam Đồng), 1USD ~ 22,000 VND [rate](https://www.google.com.sg/search?q=1+USD+in+VND&oq=1+USD+in+VND&aqs=chrome..69i57j69i60l5.3959j0j1&sourceid=chrome&es_sm=91&ie=UTF-8)
+  Should exchange cash, we use VND (Việt Nam Đồng), 1USD ~ 22,355 VND [rate](https://www.google.com.sg/search?q=1+USD+in+VND&oq=1+USD+in+VND&aqs=chrome..69i57j69i60l5.3959j0j1&sourceid=chrome&es_sm=91&ie=UTF-8)
   
   You can use master card in some coffeeshop, restautant or Taxi, but better to have some cash.
 
