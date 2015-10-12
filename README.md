@@ -1,6 +1,6 @@
 # SaigonTraveler
 
-Welcome To Saigon! This guide is inspired by [the Singapore guide](https://github.com/rubysg/singapore), Saigon version 
+Welcome To Saigon! This guide is inspired by [the Singapore guide](https://github.com/rubysg/singapore), Saigon version
 
 # Table of content
   - [Travel](#travel)
@@ -15,6 +15,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - [Shopping](#shopping)
   - [Tours](#tours)
   - [Notes](#notes)
+  - [Human](#human)
   - [Resource](#resources)
 
 # Travel
@@ -25,19 +26,19 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
 # Currency
   Should exchange cash, we use VND (Việt Nam Đồng), 1USD ~ 22,355 VND [rate](https://www.google.com.sg/search?q=1+USD+in+VND&oq=1+USD+in+VND&aqs=chrome..69i57j69i60l5.3959j0j1&sourceid=chrome&es_sm=91&ie=UTF-8)
-  
+
   You can use master card in some coffeeshop, restautant or Taxi, but better to have some cash.
 
 # Power
   We use this one
-  
+
   ![o cam dien](http://chemeng.hust.edu.vn/rcche2015/images/demo/o-cam-dien.jpg)
-  
+
   :trollface:
 
 # Communication
   Phone number: should buy a Sim, register 3G (no ID needed)
-  
+
   Language: Vietnamese. In Dist1 and Airport, people use English a lot, so don't worry.
 
 # Hotel
@@ -49,7 +50,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
 # Coffee
   Sai gon has a ton of coffee shop, :smiley: Here are some:
-  
+
   1. The Work Shop (must try)
     Ngô Đức Kế, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-workshop-coffee-shop
   - Star Buck
@@ -58,7 +59,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
     + Phạm Hồng Thái & Nguyễn Thị Nghĩa, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-pham-hong-thai
     + [More here](http://www.foody.vn/thuong-hieu/starbucks-coffee)
   - Coffee Bean
-    + 1 - 5 Lê Duẩn, P. Bến Nghé, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-coffee-bean-tea-leaf-le-duan 
+    + 1 - 5 Lê Duẩn, P. Bến Nghé, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-coffee-bean-tea-leaf-le-duan
     + 60 - 62 Cách Mạng Tháng 8, Quận 3, TP. HCM http://www.foody.vn/ho-chi-minh/the-coffee-bean-tea-leaf-cach-mang-thang-8
     + 27 Hàn Thuyên, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-coffee-bean-tea-leaf-han-thuyen
   - Passio
@@ -78,20 +79,20 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - Others
 
   [Highland coffee](http://www.foody.vn/thuong-hieu/highlands-coffee)
-  
+
   [Trung Nguyen coffee](http://www.foody.vn/thuong-hieu/trung-nguyen-coffee)
-  
+
   [Thuc coffee](http://www.foody.vn/thuong-hieu/thuc-coffee)
-  
+
   (MUST TRY) [L'Ussine](http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2286221-Reviews-L_Usine-Ho_Chi_Minh_City.html)
-  
+
   There are some coffee shops for enjoy coffee and working, but you want to sit down, relax, check out here:
   http://www.foody.vn/ho-chi-minh/cafe
-  
+
   Wonder how many coffee brands in saigon, [check this](https://boccommunityblog.wordpress.com/2014/11/29/viet-nam-co-bao-nhieu-quan-ca-phe-tong-hop/)
-  
-  **Tip**: 
-  
+
+  **Tip**:
+
   + you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
   + you can copy the address and paste them to google maps or show to the taxi drivers.
   + *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
@@ -102,7 +103,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - Snail: I just know one, name Ốc Đào ([212B Nguyễn Trãi, Quận 1, TP. HCM] (http://www.foody.vn/ho-chi-minh/oc-dao-nguyen-trai)), but there are a lot
   - Bún chả Hà Nội.
   - Cơm tấm
-  
+
   Some where must try:
   - Cục Gạch: 79 Phan Kế Bính, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/cuc-gach-cafe
     [Check out the review here](http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html)
@@ -117,13 +118,13 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
     + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1055035-Reviews-The_Sushi_Bar-Ho_Chi_Minh_City.html
     + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1646963-Reviews-The_Snap_Cafe-Ho_Chi_Minh_City.html
     + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d3682545-Reviews-Hum_Vegetarian_Cafe_Restaurant-Ho_Chi_Minh_City.html
-  
+
 # Bar & Beer
   - Must visit [Bùi Viện Road](http://www.tripadvisor.com.sg/Attraction_Review-g293925-d5505885-Reviews-Bui_Vien_Street-Ho_Chi_Minh_City.html), there are a lot of bars.
   - Bitexco, a lot of bars.
-    
+
     ![bitexco](http://www.e-architect.co.uk/images/jpgs/vietnam/hcm_financial_tower_a290411_16.jpg)
-  
+
 - [Acoustic Bar](http://www.tripadvisor.com.sg/LocationPhotoDirectLink-g293925-d5894992-i97110625-Acoustic-Ho_Chi_Minh_City.html), must try.
   - [More here](http://www.foody.vn/ho-chi-minh/bar-pub?q=bar)
 
@@ -144,7 +145,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - https://www.triip.me/ho-chi-minh/phu-my-hung-urban-area-tour-v1-2474/
   - http://www.foody.vn/ho-chi-minh/tau-sai-gon Buffet in the ship around Saigon River.
 
-#Other
+# Other
   Workspace: not sure, before I used to come to saigonhub, but it closed for a long time. May check out
   - http://www.worksaigon.com/#about
   - http://start-saigon.com/
@@ -153,12 +154,15 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 # Notes
   - You may become a victim of pickpocket, so don't
     + Wear your bag like that
-      
+
       ![This](http://l.f30.img.vnexpress.net/2013/03/17/ho-1363536711_500x0.jpg)
     + Watchout for valueable assets (phone, ipad, wallet) when going in the crowd
-      
+
       ![this](http://img.v3.news.zdn.vn/Uploaded/fsmqv/2015_01_15/moc.jpg)
     + Don't pick your phone or walk alone in the street, especially at night.
+
+# Human
+  - You should read [Human of Saigon](https://www.facebook.com/humansofsaigonn) to know more about human, lifestyle of Saigon.
 
 # Resources
   - https://www.triip.me/
