@@ -1,6 +1,6 @@
 # SaigonTraveler
 
-Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com/rubysg/singapore), Saigon version 
+Welcome To Saigon! This guide is inspired by [the Singapore guide](https://github.com/rubysg/singapore), Saigon version 
 
 # Table of content
   - [Travel](#travel)
