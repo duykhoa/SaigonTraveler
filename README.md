@@ -21,7 +21,7 @@ Welcome To Saigon! This guide is follow [the Singapore guide](https://github.com
   - Taxi: Grab taxi, Mai Linh (08) 38 38 38 38, Vina Sun (08) 38 27 27 27
   - Motobike (xe ôm) - not recommend
   - Cyclo: if you want to travel around Ben Thanh Market, try it
-    ![1](http://www.allvietnam.com/wp-content/uploads/2015/04/xich-lo.jpg)
+    ![1](https://cdn3.ivivu.com/2014/10/du-lich-sai-gon-cam-nang-tu-a-den-z-iVIVU.com-2.jpg)
 
 # Currency
   Should exchange cash, we use VND (Việt Nam Đồng), 1USD ~ 22,355 VND [rate](https://www.google.com.sg/search?q=1+USD+in+VND&oq=1+USD+in+VND&aqs=chrome..69i57j69i60l5.3959j0j1&sourceid=chrome&es_sm=91&ie=UTF-8)
