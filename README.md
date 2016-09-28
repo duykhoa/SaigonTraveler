@@ -19,72 +19,57 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - [Resource](#resources)
 
 # Travel
-  - Taxi: Grab taxi, Mai Linh (08) 38 38 38 38, Vina Sun (08) 38 27 27 27
-  - Motobike (xe ôm) - not recommend
+  - Taxi: Mai Linh (08) 38 38 38 38, Vina Sun (08) 38 27 27 27, Uber or Grab
+
+    VinaSun app:
+      - [Android](https://play.google.com/store/apps/details?id=com.vinasuntaxi.clientapp&hl=en)
+      - [IOS](https://itunes.apple.com/sg/app/vinasun/id989487584?mt=8
+
+    Mai Linh app:
+      - [Android](https://play.google.com/store/apps/details?id=com.vietek.taximailinh&hl=en)
+      - [IOS](https://itunes.apple.com/us/app/mai-linh-taxi/id980286774?mt=8)
+
+  - Motobike (xe ôm)
   - Cyclo: if you want to travel around Ben Thanh Market, try it
     ![1](https://cdn3.ivivu.com/2014/10/du-lich-sai-gon-cam-nang-tu-a-den-z-iVIVU.com-2.jpg)
 
 # Currency
-  Should exchange cash, we use VND (Việt Nam Đồng), 1USD ~ 22,355 VND [rate](https://www.google.com.sg/search?q=1+USD+in+VND&oq=1+USD+in+VND&aqs=chrome..69i57j69i60l5.3959j0j1&sourceid=chrome&es_sm=91&ie=UTF-8)
+  Should exchange cash, we use VND (Việt Nam Đồng), 1USD ~ 22,355 VND
+  [rate](https://www.google.com.sg/search?q=1+USD+in+VND&oq=1+USD+in+VND&aqs=chrome..69i57j69i60l5.3959j0j1&sourceid=chrome&es_sm=91&ie=UTF-8)
 
-  You can use master card in some coffeeshop, restautant or Taxi, but better to have some cash.
+  You can use Master Card in coffeeshop, restautant or Taxi, but better to have some cash.
 
 # Power
+
   We use this one
 
   ![o cam dien](http://chemeng.hust.edu.vn/rcche2015/images/demo/o-cam-dien.jpg)
 
-  :trollface:
-
 # Communication
+
   Phone number: should buy a Sim, register 3G (no ID needed)
 
   Language: Vietnamese. In Dist1 and Airport, people use English a lot, so don't worry.
 
 # Hotel
+
   Go to booking website (e.g http://www.agoda.com/)
+  Personally, I think use Airbnb in Ho Chi Minh isn't a smart choice.
 
 # Medicine & Face mask
+
   You can buy medicine & facemask easily in the medical care, these stores are in the hospital or around the street.
-  Should wear facemask outside.
+  Should wear facemask when traveling because of the pollution.
 
 # Coffee
   Sai gon has a ton of coffee shop, :smiley: Here are some:
 
   1. The Work Shop (must try)
     Ngô Đức Kế, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-workshop-coffee-shop
-  - Star Buck
-    + 41 Nguyễn Huệ, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-coffee-rex-hotel
-    + President Place, 93 Nguyễn Du, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-coffee-nguyen-du
-    + Phạm Hồng Thái & Nguyễn Thị Nghĩa, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/starbucks-pham-hong-thai
-    + [More here](http://www.foody.vn/thuong-hieu/starbucks-coffee)
-  - Coffee Bean
-    + 1 - 5 Lê Duẩn, P. Bến Nghé, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-coffee-bean-tea-leaf-le-duan
-    + 60 - 62 Cách Mạng Tháng 8, Quận 3, TP. HCM http://www.foody.vn/ho-chi-minh/the-coffee-bean-tea-leaf-cach-mang-thang-8
-    + 27 Hàn Thuyên, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-coffee-bean-tea-leaf-han-thuyen
+  - Starbuck
   - Passio
-    Review [here](http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d3989713-Reviews-Passio_Coffee-Ho_Chi_Minh_City.html)
-    + 53C Nguyễn Du, P. Bến Nghé, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/passio-coffee-nguyen-du
-    + 97 Đinh Tiên Hoàng, P. 12, Quận Bình Thạnh, TP. HCM  http://www.foody.vn/ho-chi-minh/passio-coffee-dinh-tien-hoang
   - The coffee house
-    http://www.foody.vn/thuong-hieu/the-coffee-house
   - Urban station
-    + 90 Cách Mạng Tháng 8, Quận 3, TP. HCM http://www.foody.vn/ho-chi-minh/urban-station-coffee-takeaway-90-cach-mang-thang-8
-    +  177 Hàm Nghi, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/urban-station-coffee-takeaway-177-ham-nghi
-    +  23 Tôn Thất Tùng, P. Phạm Ngũ Lão, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/urban-station-coffee-takeaway-ton-that-tung
-    + [More here](http://www.foody.vn/thuong-hieu/urban-station-coffee)
-  - Phúc Long (must try): Phúc Long milk tea is awesome, and the people there are so energize :smiley:
-    + Crescent Mall, District 7 http://www.foody.vn/ho-chi-minh/phuc-long-cafe-takeaway-crescent-mall
-    + 325 Lý Tự Trọng, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/phuc-long-coffee-tea-house-ly-tu-trong
-  - Others
-
-  [Highland coffee](http://www.foody.vn/thuong-hieu/highlands-coffee)
-
-  [Trung Nguyen coffee](http://www.foody.vn/thuong-hieu/trung-nguyen-coffee)
-
-  [Thuc coffee](http://www.foody.vn/thuong-hieu/thuc-coffee)
-
-  (MUST TRY) [L'Ussine](http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2286221-Reviews-L_Usine-Ho_Chi_Minh_City.html)
 
   There are some coffee shops for enjoy coffee and working, but you want to sit down, relax, check out here:
   http://www.foody.vn/ho-chi-minh/cafe
@@ -95,7 +80,6 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
   + you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
   + you can copy the address and paste them to google maps or show to the taxi drivers.
-  + *Quận* or *Q.* is District, *P.* or *Phường* is Ward, TP. HCM is Hồ Chí Minh/ Ho Chi Minh (sài gòn/ Saigon) also.
 
 #Eating
   - Phở, know 1 ([Phở Thìn 170 Nguyễn Đình Chiểu, P. 6, Quận 3, TP. HCM](http://www.foody.vn/ho-chi-minh/pho-thin))
@@ -153,12 +137,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
 # Notes
   - You may become a victim of pickpocket, so don't
-    + Wear your bag like that
-
-      ![This](http://l.f30.img.vnexpress.net/2013/03/17/ho-1363536711_500x0.jpg)
     + Watchout for valueable assets (phone, ipad, wallet) when going in the crowd
-
-      ![this](http://img.v3.news.zdn.vn/Uploaded/fsmqv/2015_01_15/moc.jpg)
     + Don't pick your phone or walk alone in the street, especially at night.
 
 # Human
