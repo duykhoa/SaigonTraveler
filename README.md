@@ -23,7 +23,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
     VinaSun app:
       - [Android](https://play.google.com/store/apps/details?id=com.vinasuntaxi.clientapp&hl=en)
-      - [IOS](https://itunes.apple.com/sg/app/vinasun/id989487584?mt=8)
+      - [IOS](https://itunes.apple.com/sg/app/vinasun/id989487584?mt=8
 
     Mai Linh app:
       - [Android](https://play.google.com/store/apps/details?id=com.vietek.taximailinh&hl=en)
@@ -47,7 +47,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
 # Communication
 
-  Phone number: should buy a Sim, register 4G (no ID needed)
+  Phone number: should buy a Sim, register 3G (no ID needed)
 
   Language: Vietnamese. In Dist1 and Airport, people use English a lot, so don't worry.
 
@@ -138,6 +138,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   Workspace: not sure, before I used to come to saigonhub, but it closed for a long time. May check out
   - http://www.worksaigon.com/#about
   - http://start-saigon.com/
+  - https://dreamplex.co/
   - http://saigoncoworking.com/
 
 # Notes
