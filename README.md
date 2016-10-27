@@ -9,7 +9,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - [Communication](#communication)
   - [Hotel](#hotel)
   - [Medicine & Facemask](#medicine--face-mask)
-  - [Coffee](#coffee)
+  - [Coffee](#coffee--tea)
   - [Eat](#eat)
   - [Bar](#bar--beer)
   - [Shopping](#shopping)
@@ -65,16 +65,17 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   Sai gon has a ton of coffee shop, :smiley: Here are some:
 
   1. The Work Shop (must try) Ngô Đức Kế, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-workshop-coffee-shop
-  2. Phúc Long (Peach tea is highly recommended).
-  3. Starbuck
-  4. Passio
-  5. The coffee house
-  6. Urban station
-
-  There are some coffee shops for enjoy coffee and working, but you want to sit down, relax, check out here:
+  - The coffee house - many stores
+  - Phúc Long (Peach tea is highly recommended).
+  - Starbuck
+  - The coffee house
+  - Urban station
+  - Milano coffee
+  - Du miên
+  - Pha lê
+  
+  There are coffee shops for enjoy coffee and working, but you want to sit down, relax, check out here:
   http://www.foody.vn/ho-chi-minh/cafe
-
-  Wonder how many coffee brands in saigon, [check this](https://boccommunityblog.wordpress.com/2014/11/29/viet-nam-co-bao-nhieu-quan-ca-phe-tong-hop/)
 
   **Tip**:
 
@@ -82,18 +83,22 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   + you can copy the address and paste them to google maps or show to the taxi drivers.
 
 #Eating
-  - Phở, know 1 ([Phở Thìn 170 Nguyễn Đình Chiểu, P. 6, Quận 3, TP. HCM](http://www.foody.vn/ho-chi-minh/pho-thin))
+  - Phở
   - Bánh Tráng Hoàng Ty
-  - Snail: I just know one, name Ốc Đào ([212B Nguyễn Trãi, Quận 1, TP. HCM] (http://www.foody.vn/ho-chi-minh/oc-dao-nguyen-trai)), but there are a lot
-  - Bún chả Hà Nội.
+  - Snail
+  - Bún chả Hà Nội
   - Cơm tấm
+  - Bánh xèo
+  - Fast Food: Mc Donalds, KFC, Lotteria, Popeyes.
 
   Some where must try:
   - Cục Gạch: 79 Phan Kế Bính, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/cuc-gach-cafe
     [Check out the review here](http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html)
   - An Nam: http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d4085424-Reviews-An_Nam_Quan-Ho_Chi_Minh_City.html
-  - The deck http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1928671-Reviews-The_Deck_Saigon-Ho_Chi_Minh_City.html
+  - 5 Ku Quán
+  - Chuỵ Quán
   - Sumo BBQ http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2403757-Reviews-Sumo_BBQ-Ho_Chi_Minh_City.html
+
   - MORE here
     + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1008341-Reviews-The_Refinery-Ho_Chi_Minh_City.html
     + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2168691-Reviews-Mekong_Merchant-Ho_Chi_Minh_City.html
@@ -107,7 +112,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - Must visit [Bùi Viện Road](http://www.tripadvisor.com.sg/Attraction_Review-g293925-d5505885-Reviews-Bui_Vien_Street-Ho_Chi_Minh_City.html), there are a lot of bars.
   - Bitexco, a lot of bars.
 
-    ![bitexco](http://www.e-architect.co.uk/images/jpgs/vietnam/hcm_financial_tower_a290411_16.jpg)
+    <img src="http://www.e-architect.co.uk/images/jpgs/vietnam/hcm_financial_tower_a290411_16.jpg" height="120"/>
 
 - [Acoustic Bar](http://www.tripadvisor.com.sg/LocationPhotoDirectLink-g293925-d5894992-i97110625-Acoustic-Ho_Chi_Minh_City.html), must try.
   - [More here](http://www.foody.vn/ho-chi-minh/bar-pub?q=bar)
@@ -141,7 +146,8 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
     + Don't pick your phone or walk alone in the street, especially at night.
 
 # Human
-  - You should read [Human of Saigon](https://www.facebook.com/humansofsaigonn) to know more about human, lifestyle of Saigon.
+  - Check it out [Human of Saigon](https://www.facebook.com/humansofsaigonn) to know more about human, lifestyle of Saigon.
+  - Sài gòn xưa và nay [fan page](https://www.facebook.com/SaiGon.ngayxua/?fref=ts)
 
 # Resources
   - https://www.triip.me/
