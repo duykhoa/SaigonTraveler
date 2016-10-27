@@ -61,15 +61,15 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   You can buy medicine & facemask easily in the medical care, these stores are in the hospital or around the street.
   Should wear facemask when traveling because of the pollution.
 
-# Coffee
+# Coffee & Tea
   Sai gon has a ton of coffee shop, :smiley: Here are some:
 
-  1. The Work Shop (must try)
-    Ngô Đức Kế, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-workshop-coffee-shop
-  - Starbuck
-  - Passio
-  - The coffee house
-  - Urban station
+  1. The Work Shop (must try) Ngô Đức Kế, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-workshop-coffee-shop
+  2. Phúc Long (Peach tea is highly recommended).
+  3. Starbuck
+  4. Passio
+  5. The coffee house
+  6. Urban station
 
   There are some coffee shops for enjoy coffee and working, but you want to sit down, relax, check out here:
   http://www.foody.vn/ho-chi-minh/cafe
