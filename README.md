@@ -23,7 +23,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
     VinaSun app:
       - [Android](https://play.google.com/store/apps/details?id=com.vinasuntaxi.clientapp&hl=en)
-      - [IOS](https://itunes.apple.com/sg/app/vinasun/id989487584?mt=8
+      - [IOS](https://itunes.apple.com/sg/app/vinasun/id989487584?mt=8)
 
     Mai Linh app:
       - [Android](https://play.google.com/store/apps/details?id=com.vietek.taximailinh&hl=en)
