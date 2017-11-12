@@ -98,7 +98,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
   <img src="https://vietnamcoffee.asia/uploads/ca-phe/2016_01/van-hoa-ca-phe-pha-phin-viet-nam_3.jpg" height="300">
 
-  For Arabica coffee drinker, the choices are more limited. I add an asterisk for arabica coffeeshop (not 100% accurate).
+  For Arabica coffee drinker, the choices are more limited. I add an asterisk for arabica coffeeshop (not 100% accurate. I haven't visited all of them also).
 
   1. The Work Shop (!)
   - MAROU, Faiseurs de Chocolat (!)
@@ -125,6 +125,17 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - The Vintage Emporium
   - The coffee house
   - Phúc Long (Peach tea is highly recommended).
+  - Cafe Nhỏ
+  - VietGangz Brotherhood
+  - Oromia Coffee
+  - Út Lành
+  - Fly Idea Cafe
+  - Cũ
+  - Khanhcasa Garden
+  - Bâng Khuâng
+  - M2C
+  - The Basic
+  - Banksy coffee
   
   #### For more places, checkout these posts
 
@@ -150,6 +161,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - Broken rice (Cơm tấm)
   - Bánh xèo
   - Bún chả Hà Nội
+  - Appetizer
 
   `TODO: Update the list, may create a wiki like coffee`
 
@@ -197,11 +209,17 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - http://www.foody.vn/ho-chi-minh/tau-sai-gon Buffet in the ship around Saigon River.
 
 # Other
-  Workspace: not sure, before I used to come to saigonhub, but it closed for a long time. May check out
+
+  Workspace:
+
   - http://www.worksaigon.com/#about
   - http://start-saigon.com/
   - https://dreamplex.co/
   - http://saigoncoworking.com/
+
+# Human
+  - Check it out [Human of Saigon](https://www.facebook.com/humansofsaigonn) to know more about human, lifestyle of Saigon.
+  - Sài gòn xưa và nay [fan page](https://www.facebook.com/SaiGon.ngayxua/?fref=ts)
 
 # Notes
   - You may become a victim of pickpocket, so don't
@@ -209,10 +227,6 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
     + Don't pick your phone or walk alone in the street, especially at night.
 
   Please make sure this don't happen to you.
-
-# Human
-  - Check it out [Human of Saigon](https://www.facebook.com/humansofsaigonn) to know more about human, lifestyle of Saigon.
-  - Sài gòn xưa và nay [fan page](https://www.facebook.com/SaiGon.ngayxua/?fref=ts)
 
 # Resources
   - https://www.triip.me/
