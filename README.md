@@ -2,6 +2,10 @@
 
 Welcome To Saigon! This guide is inspired by [the Singapore guide](https://github.com/rubysg/singapore), Saigon version
 
+*Saigon and Ho Chi Minh city are the same, however, people prefer to call it as Saigon*
+
+`TODO: update table of content`
+
 # Table of content
   - [Travel](#travel)
   - [Currency](#currency)
@@ -19,85 +23,140 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - [Resource](#resources)
 
 # Travel
-  - Taxi: Mai Linh (08) 38 38 38 38, Vina Sun (08) 38 27 27 27, Uber or Grab
+  - Taxi:
+    - There are 2 most famous local taxi brand. You can call them: **Mai Linh** (08) 38383838, **Vina Sun** (08) 38.272727
 
-    VinaSun app:
-      - [Android](https://play.google.com/store/apps/details?id=com.vinasuntaxi.clientapp&hl=en)
-      - [IOS](https://itunes.apple.com/sg/app/vinasun/id989487584?mt=8
+    - Grab & Uber: by app
 
-    Mai Linh app:
-      - [Android](https://play.google.com/store/apps/details?id=com.vietek.taximailinh&hl=en)
-      - [IOS](https://itunes.apple.com/us/app/mai-linh-taxi/id980286774?mt=8)
+    **NOTES**
+
+      - After book a grab car or grab bike, they will call you. Make sure your phone number is updated to local number.
+        Most likely they cancel your booking if they can't make a call.
+      - I prefer using grab (bike or car), it's more common than Uber.
 
   - Motobike (xe ôm)
-  - Cyclo: if you want to travel around Ben Thanh Market, try it
-    ![1](https://cdn3.ivivu.com/2014/10/du-lich-sai-gon-cam-nang-tu-a-den-z-iVIVU.com-2.jpg)
+
+    - Uber moto, Grab bike are new xe ôm service. They are both cheap and safe, you should try.
+
+  - Cyclo: if you want to travel around Ben Thanh Market while laying down to a comfortable chair, and definitely environment friendly.
+
+  <img src="https://3.bp.blogspot.com/-qGg8siNeBK4/V2P1o9ont-I/AAAAAAAAITM/8u3EP78ZTbUQ86upU2aC1UGoZigjbdqZQCLcB/s1600/Cyclo-in-VietNam.jpg" height="400">
 
 # Currency
-  Should exchange cash, we use VND (Việt Nam Đồng), 1USD ~ 22,355 VND
-  [rate](https://www.google.com.sg/search?q=1+USD+in+VND&oq=1+USD+in+VND&aqs=chrome..69i57j69i60l5.3959j0j1&sourceid=chrome&es_sm=91&ie=UTF-8)
 
-  You can use Master Card in coffeeshop, restautant or Taxi, but better to have some cash.
+  Should exchange cash, we use VND (Việt Nam Đồng), 1USD ~ 22,713 VND (12 Nov 2017, 1:32 PM)
+
+  I often exchange money from [this place](https://www.google.com.sg/maps/place/Desk+Currency+Exchange+59/@10.775573,106.7034425,15z/data=!4m2!3m1!1s0x0:0x8322cc2ec51b2e6a?sa=X&ved=0ahUKEwjsmZrZprjXAhUOSo8KHW-8AcUQ_BIImgEwCg) (may be)
+
+  If staying in Ho Chi Minh City for few days, I suggest you exchange money here, the rate is better.
+
+  When you arrive to Tan Son Nhat Internation Airport, just exchange enough money for taxi, sim card (~40$/person).
+
+  You can use Master Card in coffeeshop, restautant or Taxi, but better to have some cash. Master, Visa, Nets, paywave haven't become common yet.
 
 # Power
 
-  We use this one
+  We use type C & E/F (2 legs electric plug, round & square).
 
-  ![o cam dien](http://chemeng.hust.edu.vn/rcche2015/images/demo/o-cam-dien.jpg)
+  <img src="https://tinhte.cdnforo.com/store/2014/09/2600449_phich_cam_dien_1.jpg">
+
+  *Source*: [Tinh te](https://tinhte.vn/threads/cac-loai-o-va-phich-cam-dien-dang-duoc-su-dung-tren-the-gioi.2365565/)
 
 # Communication
 
-  Phone number: should buy a Sim, register 3G (no ID needed)
+  Phone number: definitely a Sim card with 3G registered (no ID needed). You will need it for booking taxi, translation, map.
 
   Language: Vietnamese. In Dist1 and Airport, people use English a lot, so don't worry.
 
 # Hotel
 
-  Go to booking website (e.g http://www.agoda.com/)
-  Personally, I think use Airbnb in Ho Chi Minh isn't a smart choice.
+  Go to booking website (for example: http://www.agoda.com/)
+
+  I prefer stay in Hotel more than homestay in Viet name, though some homestays' service are very good.
 
 # Medicine & Face mask
 
-  You can buy medicine & facemask easily in the medical care, these stores are in the hospital or around the street.
-  Should wear facemask when traveling because of the pollution.
+  In Viet Name, we can buy medicine & facemask easily in any pharmacy.
+
+  Just go alongs any street, you definitely can find them.
+
+  I recommend to wear facemask when traveling because of the pollution.
 
 # Coffee & Tea
-  Sai gon has a ton of coffee shop, :smiley: Here are some:
 
-  1. The Work Shop (must try) Ngô Đức Kế, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/the-workshop-coffee-shop
-  - The coffee house - many stores
-  - Phúc Long (Peach tea is highly recommended).
-  - Starbuck
-  - The coffee house
-  - Urban station
-  - Milano coffee
-  - Du miên
+  Sai gon has a [fanstatic coffee culture](http://www.adventurefaktory.com/vietnam-hcmc-coffeeculture/). People loves drinking coffee, discussing work & life, or reading book and working.
+
+  There are 2 kind of coffee beans in Viet Nam, Robusta and Arabica. And less than 10% coffee shops use Arabica beans.
+
+  I can the Robusta coffee as local coffee. You can find this coffee in any coffee shop. There are 3 kind of coffee drinks
+
+  - Đen đá: Black coffee with ice, serve in "Phin"
+  - Nâu đá: Coffee with milk, serve in "Phin"
+  - Bạc sỉu: Coffee with more milk
+
+  "Phin" is special type of coffee filter.
+
+  <img src="https://vietnamcoffee.asia/uploads/ca-phe/2016_01/van-hoa-ca-phe-pha-phin-viet-nam_3.jpg" height="300">
+
+  For Arabica coffee drinker, the choices are more limited. I add an asterisk for arabica coffeeshop (not 100% accurate).
+
+  1. The Work Shop (!)
+  - MAROU, Faiseurs de Chocolat (!)
+  - Shin (!)
+  - L'Usine (!)
+  - Runam D'or
+  - Pergola
+  - Thinker and Dreamer (!)
+  - Yên
+  - Bản Sonate Cafe
+  - Things
+  - Little Chair (District 7)
+  - Hương Đồng Nội
+  - The Morning Cafe
+  - Terrace Cafe
+  - The Chai Cafe
+  - Heritage Coffee & Clothes
+  - La Rotonde
+  - Café De La Poste - Công Xã Paris
   - Pha lê
+  - Id
+  - Cà Phê Nhà Tui
+  - 81 Cafe - Cafe Vintage Sài Gòn 
+  - The Vintage Emporium
+  - The coffee house
+  - Phúc Long (Peach tea is highly recommended).
   
-  There are coffee shops for enjoy coffee and working, but you want to sit down, relax, check out here:
-  http://www.foody.vn/ho-chi-minh/cafe
+  #### For more places, checkout these posts
 
-  **Tip**:
+  - http://www.foody.vn/ho-chi-minh/cafe
+  - https://www.tripadvisor.com.sg/Restaurants-g293925-c8-Ho_Chi_Minh_City.html
+  - https://www.foody.vn/bo-suu-tap/hoangminhdang/cac-quan-cafe-dep-nhat-o-quan-1-4705198
 
-  + you can use foody (http://www.foody.vn), you scroll down to the bottom, click on English to switch the languages.
-  + you can copy the address and paste them to google maps or show to the taxi drivers.
+  `#TODO: create a coffee shop list separately, with images and address, with my reviews`
 
-#Eating
+  **Tips**
+
+    - You can use **Foody** app for looking for a place to chomp
+
+# Eating
+
+  Here are some of local foods
+
+  `TODO: Explain what it is, where to find`
+
   - Phở
-  - Bánh Tráng Hoàng Ty
-  - Snail
-  - Bún chả Hà Nội
-  - Cơm tấm
+  - Spring roll
+  - Snail & Sea food
+  - Broken rice (Cơm tấm)
   - Bánh xèo
-  - Fast Food: Mc Donalds, KFC, Lotteria, Popeyes.
+  - Bún chả Hà Nội
 
-  Some where must try:
+  `TODO: Update the list, may create a wiki like coffee`
+
+  Some places you must try
   - Cục Gạch: 79 Phan Kế Bính, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/cuc-gach-cafe
-    [Check out the review here](http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1717810-Reviews-Cuc_Gach_Quan-Ho_Chi_Minh_City.html)
   - An Nam: http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d4085424-Reviews-An_Nam_Quan-Ho_Chi_Minh_City.html
-  - 5 Ku Quán
-  - Chuỵ Quán
-  - Sumo BBQ http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2403757-Reviews-Sumo_BBQ-Ho_Chi_Minh_City.html
+  - Pizza 4P's
 
   - MORE here
     + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1008341-Reviews-The_Refinery-Ho_Chi_Minh_City.html
@@ -109,21 +168,24 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
     + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d3682545-Reviews-Hum_Vegetarian_Cafe_Restaurant-Ho_Chi_Minh_City.html
 
 # Bar & Beer
-  - Must visit [Bùi Viện Road](http://www.tripadvisor.com.sg/Attraction_Review-g293925-d5505885-Reviews-Bui_Vien_Street-Ho_Chi_Minh_City.html), there are a lot of bars.
-  - Bitexco, a lot of bars.
-
-    <img src="http://www.e-architect.co.uk/images/jpgs/vietnam/hcm_financial_tower_a290411_16.jpg" height="120"/>
-
-- [Acoustic Bar](http://www.tripadvisor.com.sg/LocationPhotoDirectLink-g293925-d5894992-i97110625-Acoustic-Ho_Chi_Minh_City.html), must try.
+  - [Bùi Viện Road](http://www.tripadvisor.com.sg/Attraction_Review-g293925-d5505885-Reviews-Bui_Vien_Street-Ho_Chi_Minh_City.html), there are a lot of bars, pubs.
+  - [Acoustic Bar](http://www.tripadvisor.com.sg/LocationPhotoDirectLink-g293925-d5894992-i97110625-Acoustic-Ho_Chi_Minh_City.html), must try.
+    Checkout this link for more [live music](http://www.vietnam-guide.com/5-best-live-music-bars.htm) bars
   - [More here](http://www.foody.vn/ho-chi-minh/bar-pub?q=bar)
 
+# Karaoke
+
+# Night Activities
+
 # Shopping
+
+  - Sai gon Center, 65 Lê Lợi, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam
   - Ben Thanh Market (Chợ Bến Thành)
   - Vincom Center - 72 Lê Thánh Tôn and 45A Lý Tự Trọng, phường Bến Nghé, quận 1, Tp. Hồ Chí Minh
   - Cresent mall [District 7](https://www.google.com/maps/d/viewer?mid=zyigrvuPD27Q.kQbBi42BFM1E&hl=en_US)
   - [Sai gon Square] (http://www.tripadvisor.com.sg/Attraction_Review-g293925-d2475475-Reviews-Saigon_Square-Ho_Chi_Minh_City.html)
   - [Aeon mall](http://www.tripadvisor.com.sg/Attraction_Review-g293925-d6403614-Reviews-Aeon_Mall_Tan_Phu_Celadon_Shopping_Center-Ho_Chi_Minh_City.html) - a little bit far.
-  - Many supermarkets: Coopmart, Maximark, B'smart around the city, also many small shops around street.
+  - Many supermarkets: Coopmart, Maximark, B'smart around the city,  plus many small shops alongs street.
 
 # Tour
   - https://www.triip.me/ho-chi-minh/saigon-by-night-29/ Saigon by night
@@ -145,6 +207,8 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - You may become a victim of pickpocket, so don't
     + Watchout for valueable assets (phone, ipad, wallet) when going in the crowd
     + Don't pick your phone or walk alone in the street, especially at night.
+
+  Please make sure this don't happen to you.
 
 # Human
   - Check it out [Human of Saigon](https://www.facebook.com/humansofsaigonn) to know more about human, lifestyle of Saigon.
