@@ -2,7 +2,7 @@
 
 Welcome To Saigon! This guide is inspired by [the Singapore guide](https://github.com/rubysg/singapore), Saigon version
 
-*Saigon and Ho Chi Minh city are the same, however, people prefer to call it as Saigon*
+*Saigon and Ho Chi Minh city are the same, people prefer to call it as Saigon*
 
 `TODO: update table of content`
 
@@ -66,7 +66,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
   Phone number: definitely a Sim card with 3G registered (no ID needed). You will need it for booking taxi, translation, map.
 
-  Language: Vietnamese. In Dist1 and Airport, people use English a lot, so don't worry.
+  Language: Vietnamese. In Dist1 and Airport, people also use English.
 
 # Hotel
 
@@ -88,7 +88,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
   There are 2 kind of coffee beans in Viet Nam, Robusta and Arabica. And less than 10% coffee shops use Arabica beans.
 
-  I can the Robusta coffee as local coffee. You can find this coffee in any coffee shop. There are 3 kind of coffee drinks
+  You can find Robusta coffee in any coffee shop. There are 3 kind of coffee drinks
 
   - Đen đá: Black coffee with ice, serve in "Phin"
   - Nâu đá: Coffee with milk, serve in "Phin"
@@ -98,52 +98,9 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
   <img src="https://vietnamcoffee.asia/uploads/ca-phe/2016_01/van-hoa-ca-phe-pha-phin-viet-nam_3.jpg" height="300">
 
-  For Arabica coffee drinker, the choices are more limited. I add an asterisk for arabica coffeeshop (not 100% accurate. I haven't visited all of them also).
+  For Arabica coffee drinker, there are less options than. I add an `!` for arabica coffeeshop. It is not 100% accurate. I haven't visited all of them also.
 
-  - The Work Shop (!)
-  - MAROU, Faiseurs de Chocolat (!)
-  - Shin (!)
-  - L'Usine (!)
-  - Runam D'or
-  - Pergola
-  - Thinker and Dreamer (!)
-  - Yên
-  - Bản Sonate Cafe
-  - Things
-  - Little Chair (District 7)
-  - Hương Đồng Nội
-  - The Morning Cafe
-  - Terrace Cafe
-  - The Chai Cafe
-  - Heritage Coffee & Clothes
-  - La Rotonde
-  - Café De La Poste - Công Xã Paris
-  - Pha lê
-  - Id
-  - Cà Phê Nhà Tui
-  - 81 Cafe - Cafe Vintage Sài Gòn 
-  - The Vintage Emporium
-  - The coffee house
-  - Phúc Long (Peach tea is highly recommended).
-  - Cafe Nhỏ
-  - VietGangz Brotherhood
-  - Oromia Coffee
-  - Út Lành
-  - Fly Idea Cafe
-  - Cũ
-  - Khanhcasa Garden
-  - Bâng Khuâng
-  - M2C
-  - The Basic
-  - Banksy coffee
-  
-  #### For more places, checkout these posts
-
-  - http://www.foody.vn/ho-chi-minh/cafe
-  - https://www.tripadvisor.com.sg/Restaurants-g293925-c8-Ho_Chi_Minh_City.html
-  - https://www.foody.vn/bo-suu-tap/hoangminhdang/cac-quan-cafe-dep-nhat-o-quan-1-4705198
-
-  `#TODO: create a coffee shop list separately, with images and address, with my reviews`
+  [List of coffeeshop]()
 
   **Tips**
 
@@ -151,14 +108,14 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
 # Eating
 
-  Here are some of local foods
-
-  `TODO: Explain what it is, where to find`
+  Sai gon may be the best destination if you are looking for food.
 
   - Phở
   - Spring roll
   - Snail & Sea food
   - Broken rice (Cơm tấm)
+  - Bread (Bánh mì)
+  - Glunitous rice (Xôi)
   - Bánh xèo
   - Bún chả Hà Nội
   - Appetizer
@@ -166,20 +123,67 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   `TODO: Update the list, may create a wiki like coffee`
 
   Some places you must try
+
   - Cục Gạch: 79 Phan Kế Bính, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/cuc-gach-cafe
-  - An Nam: http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d4085424-Reviews-An_Nam_Quan-Ho_Chi_Minh_City.html
+  - An Nam Quán: http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d4085424-Reviews-An_Nam_Quan-Ho_Chi_Minh_City.html
+  - Cơm tấm Cali
+  - Cơm tấm Thuận Kiều
+  - Cơm Tấm An Dương Vương
+  - Cơm tấm Bụi
+  - Phở Bò Phú Gia
+  - Phở Lệ - Nguyễn Trãi
+  - Phở Hòa
+  - Hương Xưa - Lý Tự Trọng
+  - Chị Hoa
+  - Mountain Retreat - Vietnamese Cuisine - Lê Lợi
+  - Quán Bụi - Authentic Vietnamese Cuisine
+  - The Fish Sauce - Ẩm Thực Việt
+  - Dì Mai - Nhà Hàng Việt Nam
+  - Bún Đậu Cô Khàn - Món Bắc Bình Dân
+  - Ốc Đào
+  - Ụt ụt
+  - Chè Thái Ý Phương
+  - Mỳ 7 Tô - Nguyễn Duy Dương
+  - Bún Mọc Ròm Mập - Võ Văn Tần
+  - Đo Đo Quán - Món Quảng
+  - Moo Beefsteak
+  - New York Steakhouse
+  - Beef Bar Steakhouse
+  - Le Steak
+  - The First Steakhouse
+  - Chè Chuối Nướng Nam Bộ Út Lúa 226 Lý Chính Thắng, P. 9, Quận 3, TP. HCM
   - Pizza 4P's
+  - Bún Thịt Nướng Hải Đăng
+  - Chút Chít Quán - Đặc Sản Ốc
+  - Ốc Liễu
+  - Lan Ốc - Rạch Bùng Binh
+  - Ốc cười
+  - Trung Quán – Hủ Tiếu Nam Quán
+  - Hủ Tiếu Hồng Phát
+  - Hủ Tiếu Nam Vang Campo
+  - Bún thịt nướng Cô Ba
+  - Bún Vị Sài gòn
+  - Bún Thịt Nướng 1657
+  - Boom Dak
+  - Ocean Palace - Ẩm Thực Trung Hoa
+  - Hana BBQ & Hot Pot Buffet
+  - Seoul Garden
+  - Poki Poki
+  - Quán Khói - Xiên Que Lẩu Nhúng
+  - Ngộ - Lẩu & Nướng Hải Sản
+  - Mì Quảng Thi Thi
+  - Cháo Ếch Cay Cay 1
 
-  - MORE here
-    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1008341-Reviews-The_Refinery-Ho_Chi_Minh_City.html
-    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2168691-Reviews-Mekong_Merchant-Ho_Chi_Minh_City.html
-    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d2168691-Reviews-Mekong_Merchant-Ho_Chi_Minh_City.html
-    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d4022532-Reviews-Agnes_Cafe-Ho_Chi_Minh_City.html
-    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1055035-Reviews-The_Sushi_Bar-Ho_Chi_Minh_City.html
-    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d1646963-Reviews-The_Snap_Cafe-Ho_Chi_Minh_City.html
-    + http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d3682545-Reviews-Hum_Vegetarian_Cafe_Restaurant-Ho_Chi_Minh_City.html
+# Drinking
 
-# Bar & Beer
+  Beer hoi, 333, Sài gòn (red, green, silver) are local beer.
+
+  - The Gangs - Grill & Beer
+  - Bamboo
+  - Hoa Sơn Tửu Lầu - Nguyễn Thị Nhỏ
+  - 123 Zô.VN - Phạm Văn Đồng
+  - Ốc Tre
+  - Kỳ Hoà
   - [Bùi Viện Road](http://www.tripadvisor.com.sg/Attraction_Review-g293925-d5505885-Reviews-Bui_Vien_Street-Ho_Chi_Minh_City.html), there are a lot of bars, pubs.
   - [Acoustic Bar](http://www.tripadvisor.com.sg/LocationPhotoDirectLink-g293925-d5894992-i97110625-Acoustic-Ho_Chi_Minh_City.html), must try.
     Checkout this link for more [live music](http://www.vietnam-guide.com/5-best-live-music-bars.htm) bars
@@ -187,7 +191,14 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
 # Karaoke
 
-# Night Activities
+  Looking for a karaoke, here are some best places
+
+  - Valentine 334 Đường 3 Tháng 2, P. 12,  Quận 10, TP. HCM
+  - Sai Gon View Karaoke
+  - NNICE
+  - Nốt Nhạc Vui
+  - FYOU 2
+  - You karaoke (Phan Xích Long)
 
 # Shopping
 
@@ -218,17 +229,18 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
   - http://saigoncoworking.com/
 
 # Human
-  - Check it out [Human of Saigon](https://www.facebook.com/humansofsaigonn) to know more about human, lifestyle of Saigon.
-  - Sài gòn xưa và nay [fan page](https://www.facebook.com/SaiGon.ngayxua/?fref=ts)
+  - [Human of Saigon](https://www.facebook.com/humansofsaigonn) to know more about human, lifestyle of Saigon.
 
 # Notes
-  - You may become a victim of pickpocket, so don't
+  - You may become a victim of pickpocket,
     + Watchout for valueable assets (phone, ipad, wallet) when going in the crowd
     + Don't pick your phone or walk alone in the street, especially at night.
+    + Consider go back by cab
 
   Please make sure this don't happen to you.
 
 # Resources
+
   - https://www.triip.me/
   - http://wikitravel.org/en/Ho_Chi_Minh_City
   - https://github.com/rubysg/singapore
