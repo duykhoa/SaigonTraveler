@@ -58,9 +58,9 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
   We use type C & E/F (2 legs electric plug, round & square).
 
-  <img src="https://tinhte.cdnforo.com/store/2014/09/2600449_phich_cam_dien_1.jpg">
+  <img src="https://www.worldcare.co.nz/blog/wp-content/uploads/2015/07/worldcare-global-power-point-guide-71.jpg">
 
-  *Source*: [Tinh te](https://tinhte.vn/threads/cac-loai-o-va-phich-cam-dien-dang-duoc-su-dung-tren-the-gioi.2365565/)
+  [Vietnamese version](https://tinhte.cdnforo.com/store/2014/09/2600449_phich_cam_dien_1.jpg) (*Source*: [Tinh te](https://tinhte.vn/threads/cac-loai-o-va-phich-cam-dien-dang-duoc-su-dung-tren-the-gioi.2365565/))
 
 # Communication
 
