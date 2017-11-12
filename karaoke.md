@@ -1,0 +1,6 @@
+  - Valentine 334 Đường 3 Tháng 2, P. 12,  Quận 10, TP. HCM
+  - Sai Gon View Karaoke
+  - NNICE
+  - Nốt Nhạc Vui
+  - FYOU 2
+  - You karaoke (Phan Xích Long)
