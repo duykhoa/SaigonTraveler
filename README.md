@@ -76,7 +76,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
 # Medicine & Face mask
 
-  In Viet Name, we can buy medicine & facemask easily in any pharmacy.
+  In Viet Nam, we can buy medicine & facemask easily in any pharmacy.
 
   Just go alongs any street, you definitely can find them.
 
@@ -84,7 +84,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
 # Coffee & Tea
 
-  Sai gon has a [fanstatic coffee culture](http://www.adventurefaktory.com/vietnam-hcmc-coffeeculture/). People loves drinking coffee, discussing work & life, or reading book and working.
+  Saigon has a [fanstatic coffee culture](http://www.adventurefaktory.com/vietnam-hcmc-coffeeculture/). People loves drinking coffee, discussing work & life, or reading book and working.
 
   There are 2 kind of coffee beans in Viet Nam, Robusta and Arabica. And less than 10% coffee shops use Arabica beans.
 
@@ -100,7 +100,7 @@ Welcome To Saigon! This guide is inspired by [the Singapore guide](https://githu
 
   For Arabica coffee drinker, the choices are more limited. I add an asterisk for arabica coffeeshop (not 100% accurate. I haven't visited all of them also).
 
-  1. The Work Shop (!)
+  - The Work Shop (!)
   - MAROU, Faiseurs de Chocolat (!)
   - Shin (!)
   - L'Usine (!)
