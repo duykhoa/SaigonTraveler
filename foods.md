@@ -1,5 +1,6 @@
   - Cục Gạch: 79 Phan Kế Bính, Quận 1, TP. HCM http://www.foody.vn/ho-chi-minh/cuc-gach-cafe
-  - An Nam Quán: http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d4085424-Reviews-An_Nam_Quan-Ho_Chi_Minh_City.html
+  - Japan food (Lý Tự Trọng, Lê Thánh Tôn, Thái Văn Lung)
+  - An Nam Quán: http://www.tripadvisor.com.sg/Restaurant_Review-g293925-d4085424-Reviews-An_Nam_Quan-Ho_Chi_Minh_City.html
   - Cơm tấm Cali
   - Cơm tấm Thuận Kiều
   - Cơm Tấm An Dương Vương
