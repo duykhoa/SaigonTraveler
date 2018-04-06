@@ -1,10 +1,10 @@
-  - The Work Shop (!)
-  - MAROU, Faiseurs de Chocolat (!)
-  - Shin (!)
-  - L'Usine (!)
+  - The Work Shop
+  - MAROU, Faiseurs de Chocolat
+  - Shin
+  - L'Usine
   - Runam D'or
   - Pergola
-  - Thinker and Dreamer (!)
+  - Thinker and Dreamer
   - Yên
   - Bản Sonate Cafe
   - Things
@@ -39,6 +39,7 @@
   - Mộc
   - Út Lành
   - Chợ
+  - Bâng Khuâng coffee
   - Cộng
 
   #### For more places, checkout these posts
